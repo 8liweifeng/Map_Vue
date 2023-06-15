@@ -4,6 +4,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 
 # The API key
-the key is AIzaSyDxbW4U5N1f5VoLFQwpGmLq6rmIyubhcUY
-The restriction for the key: Geocoding API, Maps JavaScript API, Places API, Time Zone API
+the key is AIzaSyDxbW4U5N1f5VoLFQwpGmLq6rmIyubhcUY  
+
+The restriction for the key: Geocoding API, Maps JavaScript API, Places API, Time Zone API  
+
 In the file App.vue, line 77, line 136, line 177; And in the index.html file, line 11, you could change the key.
